@@ -7,10 +7,10 @@
 ##  :computer: Используемый стек
 
 <p align="center">
-<img width="6%" title="IntelliJ IDEA" src="media/logo/Intelij_IDEA.svg">
-<img width="6%" title="Java" src="media/logo/Java.svg">
-<img width="6%" title="Gradle" src="media/logo/Gradle.svg">
-<img width="6%" title="GitHub" src="media/logo/GitHub.svg">
+<a href="https://www.jetbrains.com/idea/"><img src="media/logo/Intelij_IDEA.svg" width="50" height="50"  alt="IDEA"/></a>
+<a href="https://www.java.com/"><img src="media/logo/Java.svg" width="50" height="50"  alt="JAVA"/></a>
+<a href="https://gradle.org/"><img src="media/logo/Gradle.svg" width="50" height="50"  alt="Gradle"/></a>
+<a href="https://github.com/"><img src="media/logo/GitHub.svg" width="50" height="50"  alt="GITHUB"/></a>
 
 ## :pushpin: Задание:
 Раскомментируйте нужную строчку кода, которая записывает в переменную result значение: Привет, Мир!
